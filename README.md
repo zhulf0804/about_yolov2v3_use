@@ -4,9 +4,10 @@
 
 AlexeyAB darknet 见: [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
 
-yolo原理详解见:
+yolo原理详解见: [http://zhulf.com/2018/07/07/yolo.html](http://zhulf.com/2018/07/07/yolo.html)
 
-训练自己数据集参考本文: 
+
+训练自己数据集参考本文: [https://github.com/zhulf0804/about_yolov2v3_use](https://github.com/zhulf0804/about_yolov2v3_use) 
 
 
 1. **数据集整合**
